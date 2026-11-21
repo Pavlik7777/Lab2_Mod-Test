@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-
+//Задание 3
 namespace Lab2_Mod_Test
 {
     public class CinemaSession
