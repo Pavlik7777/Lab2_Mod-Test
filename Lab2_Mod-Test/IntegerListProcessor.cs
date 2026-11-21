@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
+//Задание 4
 namespace Lab2_Mod_Test
 {
     public class IntegerListProcessor
